@@ -1,6 +1,6 @@
 import copy
 
-f = open("input1.1.txt", "r")
+f = open("input1.txt", "r")
 
 list = f.read().split()
 
